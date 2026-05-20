@@ -1,4 +1,4 @@
-
+#Hello!
 text = input("Enter text: ")
 
 words = text.split()
